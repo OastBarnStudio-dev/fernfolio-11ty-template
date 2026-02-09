@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "/src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "title": "Fernando and Zacarías Barn Studio",
+  "image": "/src/assets/img/barn-01.png",
+  "image_alt": "The old oast barn",
+  "body": "Adventures in Advertising, documentary and design."
 }
