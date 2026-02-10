@@ -5,15 +5,15 @@ metaDescription: >-
   About Zacarías, My Drahthaar friend and Fernando, PhD, an award winner
   Advertiser creative and Documentary Producer Director.
 
-  For more information about Documentary Scriptwriting and Directing, Advertising or illustrations and comics, please write to Me or Zac at videofeatures”duck.com
+  Documentary Scriptwriting and Directing, Advertising or Illustrations and Comics.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 3
 ---
-
-
+These are the pages of Zacarías, my Drahthaar friend and Fernando, PhD, an award winner Advertiser creative and Documentary Producer Director.
+For more information about Documentary Scriptwriting and Directing, Advertising or illustrations and comics, please write to me or to Zac at videofeatures@duck.com
 
 Thanks to Tyler for the easy to use template
 
