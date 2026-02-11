@@ -9,5 +9,5 @@ date: 2021-01-01
 permalink: /projects/index.html
 eleventyNavigation:
   key: Projects
-  order: 1
+  order: 2
 ---
