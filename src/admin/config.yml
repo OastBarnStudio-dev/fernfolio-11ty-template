@@ -38,7 +38,7 @@ collections:
               default: "light",
               required: true
             }
-          - { label: "Logo (.jpg)", name: "logo", widget: "image", required: true }
+          - { label: "Logo (.svg)", name: "logo", widget: "image", required: true }
           - { label: "Mobile Menu Icon (.svg)", name: "menu_icon", widget: "image", required: true }
           - { label: "Close Icon (.svg)", name: "close_icon", widget: "image", required: true }
 
