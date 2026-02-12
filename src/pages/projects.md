@@ -11,3 +11,4 @@ eleventyNavigation:
   key: Projects
   order: 2
 ---
+![comics](/src/assets/img/in-progress-p-2-3-600.png "Spread for a comic, The quantum adventures of Erwin’s dog")
