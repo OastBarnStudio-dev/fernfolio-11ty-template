@@ -1,6 +1,6 @@
 {
   "title": "Zacarias and Fernando´s Barn Studio",
-  "image": "/src/assets/img/tabasco-pair-landscape-500.png",
+  "image": "https://res.cloudinary.com/dxp5v7a5h/image/upload/v1770712116/tabasco_pair_landscape_500_fljuty.png",
   "image_alt": "Tabasco adverts.",
   "body": "Our HQ for new adventures in Advertising, documentary and design. I will be populating with samples of our work very soon. Once I understand how to do it through Netlify."
 }
