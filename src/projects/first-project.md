@@ -1,11 +1,10 @@
 ---
-title: Cat Translation API
+title: "Shooting Fern McCann’s boyfriend proposal in Le Touquet, France "
 emoji: 😺
 date: 2019-01-01T00:00:00.000Z
 summary: Shooting PD
-metaDescription: This is a sample meta description. If one is not present in
-  your page/project's front matter, the default metadata.desciption will be used
-  instead.
+metaDescription: Photo of Fernando up the water tower during a shoot for Ferne
+  McCann’s TV series.
 tags:
   - golang
   - graphQL
