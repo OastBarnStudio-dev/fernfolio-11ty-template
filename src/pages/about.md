@@ -12,6 +12,8 @@ eleventyNavigation:
   key: About
   order: 3
 ---
+![Zac](/src/assets/img/zac.jpg "Tea with Zac")
+
 These are the pages of Zacarías, my Drahthaar friend and Fernando, PhD, an award winner Advertiser creative and Documentary Producer Director.
 For more information about Documentary Scriptwriting and Directing, Advertising or illustrations and comics, please write to me or to Zac at videofeatures@duck.com
 
