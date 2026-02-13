@@ -9,4 +9,4 @@ tags:
   - illustration
   - ""
 ---
-
+![comics](/src/assets/img/in-progress-p-2-3-600.png "Erwin’s dog spread")
