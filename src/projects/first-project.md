@@ -16,7 +16,7 @@ Shooting Fern McCann's boyfriend proposal
 
 #### I﻿mage Uploaded to CMS:
 
-![Shooting in Le Touquet](/src/assets/img/1177px-cat_august_2010-4.jpg "Shooting in Le Touquet")
+![Shooting in Le Touquet](/src/assets/img/fern-in-hand.jpeg "Shooting in Le Touquet")
 
 #### Remote Image:
 
